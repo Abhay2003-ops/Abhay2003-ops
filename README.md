@@ -9,7 +9,7 @@
 <div align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fabhaymehra%2Fabhaymehra&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
   <br><br>
-  <a href="https://www.linkedin.com/in/abhay-mehra25/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
+  <a href="https://www.linkedin.com/in/abhay-mehra-619645222//"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
   <a href="mailto:abhaymehra.icfai@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
   <a href="https://twitter.com/abhaymehra25"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" /></a>
 </div>
