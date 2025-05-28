@@ -2,7 +2,8 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/your-banner-image-url" alt="Abhay Mehra Banner" width="100%" />
+  <img src="![image](https://github.com/user-attachments/assets/648fc008-d2fd-4b0a-8e06-38878ff08576)
+" alt="Abhay Mehra Banner" width="100%" />
 </p>
 
 <!-- Visitor Badge and Social Links -->
