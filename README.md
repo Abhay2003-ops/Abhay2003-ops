@@ -2,7 +2,9 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/648fc008-d2fd-4b0a-8e06-38878ff08576" alt="Abhay Mehra Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/abhaymehra/your-repo/main/banner.png" alt="Abhay Mehra Banner" width="600px" />
+</p>
+
 
 </p>
 
